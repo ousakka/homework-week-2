@@ -19,7 +19,7 @@
     padding: 20px;
     flex: 1;
     /* Optional, just because that way your rug doesn't disappear on small screens */
-    min-width: 50%;
+    
   }
   
   /* Image Styling */
